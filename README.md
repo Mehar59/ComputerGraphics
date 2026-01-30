@@ -197,9 +197,7 @@ GitHub: @Mehar59
 
 LinkedIn: Your Profile
 
-Email: your.email@example.com
-
-Portfolio: Your Website
+Email: mehar2004sharma@gmail.com
 
 Acknowledgments
 Turbo C++ Community for preserving legacy tools
